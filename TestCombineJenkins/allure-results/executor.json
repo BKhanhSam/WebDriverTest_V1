@@ -1,0 +1,10 @@
+{
+  "name": "Phuc Doan - Khanh Sam",
+  "type": "jenkins",
+  "url": "http://example.org",
+  "buildOrder": 1,
+  "buildName": "Work at: Waverley Software Vietnam ",
+  "buildUrl": "https://waverleysoftware.com/",
+  "reportUrl": "http://192.168.88.250/en/Account/LogOn?returnUrl=%2F",
+  "reportName": "Branded LifeStyle"
+}
